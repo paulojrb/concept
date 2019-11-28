@@ -1,0 +1,64 @@
+[
+    {
+        "picture": "avatar-1.jpg",
+        "name": "Abraão Paiva",
+        "rating": 3,
+        "views": 97,
+        "city": "Casper, Wyoming",
+        "sexo": "male",
+        "years": 34,
+        "atts": [
+            "Business",
+            "Lifestyle",
+            "Fitness",
+            "Sports",
+            "Clothing",
+            "Pets & Animals",
+            "Beauty & Makeup"
+        ],
+        "twitter": "11,730",
+        "pinterest": "2,921",
+        "instagram": "1,987",
+        "facebook": "21,105"
+    },
+    {
+        "picture": "avatar-1.jpg",
+        "name": "Cecília Valgueiro",
+        "rating": 5,
+        "views": 231,
+        "city": "Arvada, Colorado",
+        "sexo": "femele",
+        "years": 22,
+        "atts": [
+            "Lifestyle",
+            "Fitness",
+            "Pets & Animals"
+        ],
+        "twitter": "31,730",
+        "pinterest": "11,921",
+        "instagram": "19,987",
+        "facebook": "7,105"
+    },
+    {
+        "picture": "avatar-1.jpg",
+        "name": "Solange Paiva",
+        "rating": 1,
+        "views": 133,
+        "city": "Casper, Wyoming",
+        "sexo": "male",
+        "years": 34,
+        "atts": [
+            "Business",
+            "Lifestyle",
+            "Fitness",
+            "Sports",
+            "Clothing",
+            "Pets & Animals",
+            "Beauty & Makeup"
+        ],
+        "twitter": "11,730",
+        "pinterest": "2,921",
+        "instagram": "1,987",
+        "facebook": "21,105"
+    }
+]
